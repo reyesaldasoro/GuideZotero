@@ -1,7 +1,7 @@
 # GuideZotero
 
 
-This is a very short and simple guide to use Zotero, the reference manager that will help you, not having to ever ever ever type a reference yourself and avoiding errors in the references.
+This is a very short and simple guide to use Zotero, the reference manager that will help you, not having to ever ever ever type a reference yourself and avoiding errors in the references. As a disclaimer, there may be more efficient ways to work with zotero and references, but this one works. Also, Zotero is not the only reference manager, Endnote is very good as well and you may have access through University contracts. I have tested other managers and they are not as good or as simple.
 
  Guide for Zotero
 
@@ -31,7 +31,7 @@ This is a very short and simple guide to use Zotero, the reference manager that 
 
  5)	Select the reference you want to export to latex and then click refresh in the style preview window. The window will refresh with a preview of the way the reference will look with different bibliography styles. Scroll to BIBTEX, if you cannot see this, make sure you have it enabled
 
- <img width=602  src="Figures/Fig3.png" alt="">
+ <img width=302  src="Figures/Fig3.png" alt="">
 
 
 
@@ -64,7 +64,7 @@ This is a very short and simple guide to use Zotero, the reference manager that 
  10)	When you click on the zotero tab, it will give you the options to add citations, add bibliography and select preferences.
 
 
- <img width=602  src="Figures/image027.png" alt="">
+ <img width=402  src="Figures/image027.png" alt="">
 
 
  11)	 When you insert the first reference, you will be asked for the Citation Style, if you do not know which to use, select IEEE. If you do not have IEEE (or any other) you can click on “Manage Styles” and add new styles
@@ -96,4 +96,4 @@ This is a very short and simple guide to use Zotero, the reference manager that 
 
  The reference will be updated. If you change the text and then one reference is after where it was previously, Zotero will re-order automatically.
 
- 1. 	Hawking S. A Brief History Of Time: From Big Bang To Black Holes. Bantam; 2011. 256 p.
+1 .	Hawking S. A Brief History Of Time: From Big Bang To Black Holes. Bantam; 2011. 256 p.
