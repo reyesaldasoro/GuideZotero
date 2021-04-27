@@ -61,13 +61,13 @@ This is a very short and simple guide to use Zotero, the reference manager that 
 
 
 
- 10)	When you click on the zotero tab, it will give you the options to add citations, add bibliography and select preferences.
+ 10) When you click on the zotero tab, it will give you the options to add citations, add bibliography and select preferences.
 
 
  <img width=402  src="Figures/image027.png" alt="">
 
 
- 11)	 When you insert the first reference, you will be asked for the Citation Style, if you do not know which to use, select IEEE. If you do not have IEEE (or any other) you can click on “Manage Styles” and add new styles
+ 11) When you insert the first reference, you will be asked for the Citation Style, if you do not know which to use, select IEEE. If you do not have IEEE (or any other) you can click on “Manage Styles” and add new styles
 
  <img width=602  src="Figures/image029.png" alt="">
 
